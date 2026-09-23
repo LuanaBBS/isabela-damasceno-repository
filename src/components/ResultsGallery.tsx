@@ -37,8 +37,8 @@ export const ResultsGallery: React.FC = () => {
           </p>
         </div>
 
-        {/* Gallery Grid (Mobile-first 2 columns, desktop 3 columns) */}
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-3.5 sm:gap-6">
+        {/* Gallery Grid (Mobile-first 2 columns, desktop 4 columns) */}
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-3.5 sm:gap-6">
           {RESULTS_IMAGES.map((item, index) => (
             <div
               key={item.id}

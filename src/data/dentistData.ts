@@ -30,30 +30,19 @@ export const RESULTS_IMAGES = [
     id: 1,
     url: "https://i.imgur.com/U8H850s.png",
     alt: "Registro clínico odontológico conduzido pela Dra. Isabela Damasceno",
-   
   },
   {
     id: 2,
-    url: "https://i.imgur.com/OCIwQ9T.png",
-    alt: "Acompanhamento de resultado de reabilitação dental",
-  },
-  {
-    id: 3,
     url: "https://i.imgur.com/WN90Cz5.png",
     alt: "Planejamento e restauração com prótese dental",
   },
   {
-    id: 4,
-    url: "https://i.imgur.com/PwYO3KK.png",
-    alt: "Resultado de procedimento com implante e estética do sorriso",
-  },
-  {
-    id: 5,
+    id: 3,
     url: "https://i.imgur.com/pTJnTw0.png",
     alt: "Harmonização e reabilitação de elementos dentários",
   },
   {
-    id: 6,
+    id: 4,
     url: "https://i.imgur.com/Wj4Gwam.png",
     alt: "Registro de resultado clínico em Salvador",
   },
