@@ -2,6 +2,7 @@
   "name": "Isabela Damasceno | Cirurgiã-Dentista em Salvador",
   "description": "Landing page de Isabela Damasceno, Cirurgiã-Dentista especializada em Implante, Prótese e Laserterapia em Salvador, BA.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
-
